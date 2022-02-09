@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Airport_Billboard/static/css/main.01211c26.css",
+    "main.js": "/Airport_Billboard/static/js/main.2a0def5c.js",
+    "index.html": "/Airport_Billboard/index.html",
+    "main.01211c26.css.map": "/Airport_Billboard/static/css/main.01211c26.css.map",
+    "main.2a0def5c.js.map": "/Airport_Billboard/static/js/main.2a0def5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01211c26.css",
+    "static/js/main.2a0def5c.js"
+  ]
+}

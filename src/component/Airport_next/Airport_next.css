@@ -1,0 +1,51 @@
+.Airport_container {
+    display: flex;
+}
+
+.Airport_list {
+    display: flex;
+}
+
+.Airport_box-22 {
+    display: flex;
+    justify-content: center;
+    width: 360px;
+}
+
+.Airport_box-45 {
+    display: flex;
+    justify-content: center;
+    width: 720px;
+}
+
+.Airport_box-10 {
+    display: flex;
+    justify-content: center;
+    width: 160px;
+}
+
+.Airport_word {
+    background-color: rgb(0, 0, 0);
+    margin: 1px;
+    text-align: center;
+    height: 60px;
+    width: 42.2px;
+}
+
+.Airport_word_Ani {
+    animation: rotate-in-hor 0.5s cubic-bezier(0.250, 0.460, 0.450, 4) both;
+}
+
+@keyframes rotate-in-hor {
+    0% {
+      -webkit-transform: rotateX(360deg);
+              transform: rotateX(360deg);
+      opacity: 0;
+    }
+    100% {
+      -webkit-transform: rotateX(0deg);
+              transform: rotateX(0deg);
+      opacity: 1;
+    }
+  }
+  
